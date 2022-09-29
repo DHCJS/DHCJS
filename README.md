@@ -1,4 +1,4 @@
-![ezgif-1-ab39684b38](https://user-images.githubusercontent.com/80773310/193038355-62cc6736-188b-4cf3-879a-9d93b261e04e.gif)
+![Frontend Developer](https://user-images.githubusercontent.com/80773310/193051042-c0b08323-0e22-412a-abfd-460cf7ad483f.gif)
 
 <h1 align="left">Hartato Cipta Jaya<img align="left" alt="coral" width="35" height="35" src="https://emojiguide.com/wp-content/uploads/2022/04/coral-emoji.png"></h1>
 
