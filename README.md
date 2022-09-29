@@ -29,9 +29,11 @@ I am a self-taught Frontend Developer, a part-time Stock Trader and Photographer
 
 ### 🪴 Connect
 <p align="left">
-<a href="https://twitter.com/hartatocj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hartatocj" height="25" width="35" style="padding-right:10px;" /></a>
-<a href="https://linkedin.com/in/hcj06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hcj06" height="25" width="35" style="padding-right:10px;"/></a>
-<a href="https://medium.com/@hartatociptajaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="@hartatociptajaya" height="25" width="35" style="padding-right:10px;"/></a>
+<ul>
+<li><p align="left">Twitter is the place I share my small wins</p><a href="https://twitter.com/hartatocj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hartatocj" height="25" width="35" style="padding-right:10px;" /></a></li>
+<li><p align="left">LinkedIn is the place I use to connect and looking for opportunities</p><a href="https://linkedin.com/in/hcj06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hcj06" height="25" width="35" style="padding-right:10px;"/></a></li>
+<li><p align="left">Medium is where I tell my stories</p><a href="https://medium.com/@hartatociptajaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="@hartatociptajaya" height="25" width="35" style="padding-right:10px;"/></a></li>
+</ul>
 </p>
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhcjs&show_icons=true&theme=gruvbox&title_color=ffffd1&text_color=d1ffe8&bg_color=5d5f5f&cache_seconds=1800&locale=en" alt="dhcjs" /></p>
