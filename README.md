@@ -21,8 +21,8 @@ I am a self-taught Frontend Developer, a part-time Stock Trader and Photographer
 #
 ---
 ### 📔 Medium Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- Medium-Posts-List:START -->
+<!-- Medium-Posts-List:END -->
 ---
 
 ### 🪴 Connect
