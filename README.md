@@ -17,13 +17,12 @@ I am a self-taught Frontend Developer, a part-time Stock Trader and Photographer
 <img align="left" alt="html" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CAPTURE_ONE_LOGO.svg/1200px-CAPTURE_ONE_LOGO.svg.png" />
 
 #
-#
+---
 
-### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hartatocj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hartatocj" height="30" width="40" style="padding-right:10px;" /></a>
