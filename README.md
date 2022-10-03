@@ -22,6 +22,7 @@ I am a self-taught Frontend Developer, a part-time Stock Trader and Photographer
 ---
 ### 📔 𝐌𝐞𝐝𝐢𝐮𝐦 𝐏𝐨𝐬𝐭𝐬
 <!-- Medium-Posts-List:START -->
+- [12 Things I Learned From 12 Months of Sabbatical Leave](https://hartatociptajaya.medium.com/12-things-i-learned-from-12-months-of-sabbatical-leave-a23b870f7dba?source=rss-4c5819c98a42------2)
 - [My Sabbatical Leave Experience](https://hartatociptajaya.medium.com/my-sabbatical-leave-experience-f96966b2776e?source=rss-4c5819c98a42------2)
 - [An Introduction](https://hartatociptajaya.medium.com/an-introduction-371435f4f461?source=rss-4c5819c98a42------2)
 <!-- Medium-Posts-List:END -->
