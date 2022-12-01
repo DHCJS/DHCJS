@@ -1,4 +1,4 @@
-![Frontend Developer](https://user-images.githubusercontent.com/80773310/194055390-c318c9db-f489-4825-adfa-9075ac1dbb21.gif)
+![Frontend Developer](https://user-images.githubusercontent.com/80773310/205060375-39195d9b-48dd-4540-9d72-8b98f41e3295.gif)
 
 <h1 align="left">ＨＡＲＴＡＴＯ　ＣＩＰＴＡ　ＪＡＹＡ<img align="left" alt="coral" width="50" height="50" src="https://emojiguide.com/wp-content/uploads/2022/04/coral-emoji.png"></h1>
 
