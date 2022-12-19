@@ -22,10 +22,10 @@ I am a self-taught Frontend Developer, a part-time Stock Trader and Photographer
 ---
 ### 📔 𝐌𝐞𝐝𝐢𝐮𝐦 𝐏𝐨𝐬𝐭𝐬
 <!-- Medium-Posts-List:START -->
+- [40 Days Of Coding Experience As A Self-Taught](https://hartatociptajaya.medium.com/40-days-of-coding-experience-as-a-self-taught-df3a947ab4ae?source=rss-4c5819c98a42------2)
 - [The Truth After Connecting With 500 People on LinkedIn](https://hartatociptajaya.medium.com/the-truth-after-connecting-with-500-people-on-linkedin-98f6a7a96b84?source=rss-4c5819c98a42------2)
 - [From 0 To 500++ Connections On LinkedIn In 2 Months](https://hartatociptajaya.medium.com/from-0-to-500-connections-on-linkedin-in-2-months-25457088c91a?source=rss-4c5819c98a42------2)
 - [12 Things I Learned From 12 Months of Sabbatical Leave](https://hartatociptajaya.medium.com/12-things-i-learned-from-12-months-of-sabbatical-leave-a23b870f7dba?source=rss-4c5819c98a42------2)
-- [My Sabbatical Leave Experience](https://hartatociptajaya.medium.com/my-sabbatical-leave-experience-f96966b2776e?source=rss-4c5819c98a42------2)
 <!-- Medium-Posts-List:END -->
 ---
 
